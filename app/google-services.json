@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166622561660",
+    "project_id": "nibatik---naira",
+    "storage_bucket": "nibatik---naira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166622561660:android:f307d8b7a7e1fa9a3350f9",
+        "android_client_info": {
+          "package_name": "com.nailah.nibatikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166622561660-te8hesgtvieqlr1fofd88ak2thgog2s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nailah.nibatikapp",
+            "certificate_hash": "39244dfbaf373daba09bf11173a4d9f1a03bcca0"
+          }
+        },
+        {
+          "client_id": "166622561660-t1mhpklo7g22k5hpmb2l6glbm512o35q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP1ruKKnlxZbYkpOtwwZhdVIxpcoUZwjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166622561660-t1mhpklo7g22k5hpmb2l6glbm512o35q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

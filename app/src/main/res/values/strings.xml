@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NibatikApp</string>
+    <string name="image_view">image view</string>
+    <string name="onboarding_text">Batik adalah seni yang penuh akan makna dengan coraknya yang beragam</string>
+    <string name="start">Start</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_btn">Sign in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="error_text">Not empty</string>
+    <string name="error_pass">Password Mismatch</string>
+    <string name="text_user">Users</string>
+    <string name="error_register">Register Failed</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="desc_popular">Abimanyu merupakan putra Arjuna (Pandawa). Ia akan mempunyai keturunan (Parikesit) yg akan menurunkan ksatria yg menjadi raja-raja Jawa.</string>
+    <string name="desc_detail">Abimanyu merupakan putra Arjuna (Pandawa). Ia akan mempunyai keturunan (Parikesit) yg akan menurunkan ksatria yg menjadi raja-raja Jawa. Motif ini menyiratkan harapan agar pemakainya dapat memiliki sifat sifat ksatria seperti sang Abimanyu</string>
+
+</resources>
